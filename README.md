@@ -1,42 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIF Rows</title>
-    <style>
-        .gif-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 10px; /* Space between GIFs */
-        }
-        .gif-item {
-            width: 100px; /* Set the width of each GIF */
-            height: 100px; /* Set the height of each GIF */
-            background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');
-            background-size: cover;
-            background-repeat: no-repeat;
-            animation: shrink-x 0.5s linear infinite alternate;
-        }
-        @keyframes shrink-x {
-            from {
-                transform: scaleX(1);
-            }
-            to {
-                transform: scaleX(0.5);
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="gif-container">
-        <div class="gif-item"></div>
-        <div class="gif-item"></div>
-        <div class="gif-item"></div>
-        <div class="gif-item"></div>
-        <div class="gif-item"></div>
-        <!-- Add more .gif-item divs as needed -->
-    </div>
-</body>
-</html>
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50\% -50\%; opacity: 1; background-repeat: no-repeat; background-size: 100\% 100\%; height: 100px; width: 1000px; animation: 0.5s linear both alternate infinite shrink-x; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]\{x0000\}\$}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px; /* Adjust the gap between GIFs */
+    padding: 20px; /* Optional: Adjust padding around the GIFs */
+}
+
+.gif-item {
+    pointer-events: none;
+    z-index: 5;
+    position: fixed;
+    left: 50dvi;
+    top: 50dvb;
+    width: 80dvmin;
+    height: 80dvmin;
+    translate: -50\% -50\%;
+    opacity: 1;
+    background-repeat: no-repeat;
+    background-size: 100\% 100\%;
+    animation: 0.5s linear both alternate infinite shrink-x;
+    background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');
+    width: 1000px; /* Adjust the width of each GIF */
+    height: 100px; /* Adjust the height of each GIF */
+}
+
+/* Animation for shrinking the GIF horizontally */
+@keyframes shrink-x {
+    from {
+        transform: scaleX(1);
+    }
+    to {
+        transform: scaleX(0.5);
+    }
+}
