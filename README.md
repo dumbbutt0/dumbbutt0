@@ -1,2 +1,68 @@
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; display: flex; flex-direction: row; align-items: center; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; height: auto; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true'); background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true'); background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 0px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0000}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 125px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0001}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 250px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0002}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 375px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0003}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 500px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0004}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 625px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0005}$}
+```
+<b>Starting to see why this might be an issue</b>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 0px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0000}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 125px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0001}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 250px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0002}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 375px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0003}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 500px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0004}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 625px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0005}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 750px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0006}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 875px; top: 0px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0007}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 0px; top: 125px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0008}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 125px; top: 125px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0009}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 250px; top: 125px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0010}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 375px; top: 125px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0011}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 500px; top: 125px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0012}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 625px; top: 125px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0013}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 750px; top: 125px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0014}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 875px; top: 125px; width: 125px; height: 125px; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/dead.gif?raw=true');]{x0015}$}
+```
