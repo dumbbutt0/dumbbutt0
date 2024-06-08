@@ -1,1 +1,2 @@
-&#x5c;unicode[;z-index:1000;position:fixed;top:0;left:0;height:100vh;width:100vw;background:url('https://github.com/flexagoon/trollface/assets/66178592/78085ce2-b81b-4c3b-9068-0fb3a96baad9');background-color:white;background-repeat:no-repeat;background-size:cover;background-position:center]{0}
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 100px; width: 1000px; animation: 0.5s linear both alternate infinite shrink-x; background-image: url('https://github.com/dumbbutt0/dumbbutt0/blob/main/sleep.mp4?raw=true');]{x0000}$}
