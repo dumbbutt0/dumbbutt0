@@ -49,7 +49,6 @@ I work on repository security, AI agent evaluation, and research systems. I’m 
 | Palo Alto Networks Certified Cybersecurity Apprentice | Palo Alto Networks | Jul 2025 · Expires Jul 2027 |
 | Rust Programming Basics | Cyfrin Updraft | Aug 2025 |
 | Solidity Smart Contract Development | Cyfrin | Jul 2025 |
-| Blockchain Basics | Cyfrin | Jul 2025 · Expired Jul 2026 |
 | Google Cybersecurity Certificate | Google / Coursera | Oct 2023 |
 
 <h3 align="center">Security profiles</h3>
