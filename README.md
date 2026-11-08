@@ -1,4 +1,4 @@
-I build systems that help humans think better with AI without quietly handing over their intelligence.
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -8,108 +8,54 @@ I build systems that help humans think better with AI without quietly handing ov
   </a>
 </p>
 
-My work moves between AI agents, knowledge systems, security research, model evaluation, and the low-level engineering required to make ambitious ideas real on limited compute.
+---
+I work on repository security, AI agent evaluation, and research systems. I’m interested in results that can be inspected, reproduced, and challenged.
 
-I am especially interested in a simple question:
+<h3 align="center">Security</h3>
 
-> How much more capable can a human become when AI amplifies their reasoning instead of replacing it?
+| Project | Built with | What it does |
+|---|---|---|
+| [**Pre-Flight**](https://github.com/dumbbutt0/pre-flight) | Python | Checks unfamiliar repositories for risky scripts, prompt injection, and other signals before an agent reviews them. |
+| [**AuditWatch**](https://github.com/dumbbutt0/audit-watch) | Python · Solidity | Experimental harness for source-backed vulnerability analysis and evaluation. - 7 Paid reports |
 
-## What I am working on
+<h3 align="center">AI and research systems</h3>
 
-### [Learning Time](https://github.com/dumbbutt0/learning-time)
+| Project | Built with | What it does |
+|---|---|---|
+| [**Alexandrian Library**](https://github.com/dumbbutt0/Alexandrian-Library) | Python | Tracks research questions, claims, evidence, and revisions in a local application. Leaving you with textbooks to study |
+| [**Agent Coliseum**](https://github.com/dumbbutt0/agent-coliseum) | Python | Records reproducible experiments on agent behavior and forks exact inflection points where a decision affects the results of an action |
+| [**Claude Wiki**](https://github.com/dumbbutt0/claude-wiki-public) | JavaScript · Python | Public system layer for a private, graph-based knowledge workspace and personal Jarvis assistant. |
 
-An open-source Agent Skill for people who want AI to strengthen their intelligence, not replace it.
+<h3 align="center">Developer tools</h3>
 
-It keeps the human responsible for purpose, architecture, boundaries, tradeoffs, and final decisions while the agent teaches, researches, challenges weak reasoning, and implements only approved work.
+| Project | Built with | What it does |
+|---|---|---|
+| [**RTX/vLLM dashboard**](https://github.com/dumbbutt0/rtx-vllm-grafana-dashboard) | Grafana · Python | Monitors local inference, GPU activity, and developer-tool usage. |
+| [**mine-map**](https://github.com/dumbbutt0/mine-map) | Java | Builds and films Minecraft schematics with an automated camera. |
 
-```text
-understand
-    ↓
-choose
-    ↓
-build
-    ↓
-verify
-    ↓
-become more capable
-```
+<h3 align="center">Inference Platforms</h3>
 
-### Alexandrian Library
+| Project | Built with | What it does |
+|---|---|---|
+| [**Quickference**](https://huggingface.co/spaces/dumbbutt0/QuickferenceV1) | HF Spaces · Python | arbitrary model serving for chatbots leveraging HF inference providers |
 
-A human-owned research and learning system that turns conversations into persistent investigations.
+<h3 align="center">Certifications</h3>
 
-The Library is being designed to preserve:
+| Certificate | Issuer | Issued |
+|---|---|---|
+| Building AI Apps with Hugging Face Spaces and Gradio | Hugging Face | Oct 2026 |
+| Getting Started with Hugging Face Transformers | Hugging Face | Sep 2026 |
+| Claude Code 101 | Anthropic | May 2026 |
+| Palo Alto Networks Certified Cybersecurity Apprentice | Palo Alto Networks | Jul 2025 · Expires Jul 2027 |
+| Rust Programming Basics | Cyfrin Updraft | Aug 2025 |
+| Solidity Smart Contract Development | Cyfrin | Jul 2025 |
+| Blockchain Basics | Cyfrin | Jul 2025 · Expired Jul 2026 |
+| Google Cybersecurity Certificate | Google / Coursera | Oct 2023 |
 
-- the original question
-- what the user first believed
-- evidence that supports, contradicts, or limits the idea
-- how understanding changed
-- testable experiments and reproducible tools
-- connections and branches into other books
+<h3 align="center">Security profiles</h3>
 
-The book is not the product.
+[HackenProof](https://hackenproof.com/hackers/dumbbutt1) · [TryHackMe](https://tryhackme.com/p/dumbbutt)
 
-The real product is the loop:
+<h3 align="center">Elsewhere</h3>
 
-```text
-curiosity → evidence → understanding → decision → experiment → revision
-```
-
-### Agent Coliseum
-
-A reproducible behavioral laboratory for AI agents.
-
-The Coliseum explores how history, authority, pressure, order, betrayal, memory, and other scenario variables influence later decisions. The long-term goal is to build reliable instruments for studying agent behavior rather than relying on one-off conversations or vibes.
-
-
-## My engineering philosophy
-
-I used to let AI produce software faster than I could understand it.
-
-That created impressive artifacts, but not the connection or ownership I wanted.
-
-Now I try to follow a hybrid method:
-
-> Generate what is cheap to replace. Understand what the future depends on.
-
-AI can act as my:
-
-- teacher
-- research partner
-- respectful opponent
-- reviewer
-- tester
-- bounded implementer
-
-But I keep ownership of:
-
-- purpose
-- system boundaries
-- architecture
-- unresolved tradeoffs
-- final judgment
-
-I do not need the full architecture before making progress.
-
-I need every working piece to remain understandable and faithful to the future blueprint.
-
-## Areas I keep returning to
-
-- human-first AI collaboration
-- agent behavior and evaluation
-- knowledge graphs and persistent memory
-- adversarial AI and agentic security
-- smart-contract auditing and exploit analysis
-- compound AI systems
-- quantization and limited-compute inference
-- reproducible research and experimental design
-- learning how algorithms transfer between fields
-
-## Find me elsewhere
-
-- **Writing and projects:** [dumbbutt.tech](https://dumbbutt.tech/)
-- **My actual voice:** [@dumbButt0 on X](https://x.com/dumbButt0)
-
-My website is the logbook.
-
-X is where I think out loud.
+[Hugging Face](https://huggingface.co/dumbbutt0) · [X](https://x.com/dumbButt0) · [Writing and project notes](https://dumbbutt.tech/)
