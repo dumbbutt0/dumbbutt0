@@ -25,6 +25,7 @@ I work on repository security, AI agent evaluation, and research systems. I’m 
 | [**Alexandrian Library**](https://github.com/dumbbutt0/Alexandrian-Library) | Python | Tracks research questions, claims, evidence, and revisions in a local application. Leaving you with textbooks to study |
 | [**Agent Coliseum**](https://github.com/dumbbutt0/agent-coliseum) | Python | Records reproducible experiments on agent behavior and forks exact inflection points where a decision affects the results of an action |
 | [**Claude Wiki**](https://github.com/dumbbutt0/claude-wiki-public) | JavaScript · Python | Public system layer for a private, graph-based knowledge workspace and personal Jarvis assistant. |
+| [**Harness ModShop**](https://github.com/dumbbutt0/harness-modshop/tree/main) | Python | Hand-written inference harness with simple functions for model capabilities, allowing for an easily customizable chat experience (IN PROGRESS) |
 
 <h3 align="center">Developer tools</h3>
 
